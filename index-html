@@ -1,0 +1,40 @@
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+	<table  style="border: 2px solid #3498db; width:50%; margin:auto " cellpadding="4" cellspacing="0" >
+	  <tr>
+		<th style="border-bottom: 1px  solid #3498db; border-right: 1px  solid #3498db" >Saldo</th>
+		<th style="border-bottom: 1px solid #3498db" >Vencido</th>
+		<th style="border-bottom: 1px solid #3498db">A vencer</th>
+	  </tr>
+	  <tr>
+		<td style="border: 1px solid #3498db" >Cuenta Corriente</td>
+		<td><span style="color:red;">USD 25.000,00</span></td>
+		<td>USD 6.000,00</td>
+	  </tr>
+	  <tr>
+		<td style="border: 1px solid #3498db">Negocios</td>
+		<td><span style="color:red;">USD -</span></td>
+		<td>USD 6.000,00</td></tr>
+	  <tr >
+		<td style="border: 1px solid #3498db">Credito disponible</td>
+		<td style="text-align: end;">USD </td>
+		<td>25.000,00</td>
+	  </tr>
+	</table><br>
+	
+	Consulte el detalle completo de su cuenta:<br>
+	ℹ️<a href="https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprofertilprd.cpp.cfapps.eu10.hana.ondemand.com%2Fsite%2FPortalClientes&data=05%7C02%7CASTORTONI%40profertil.com.ar%7Cd02d867e128d4189ede108ddae699b2c%7C70782399ad3c4ca6b8a9af2bafbc5704%7C0%7C0%7C638858490774060090%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=H%2BpDVHZr9tc%2B11wdf%2F2qKfgJ2aKJEQ8CnMcr59yB%2F84%3D&reserved=0">
+			Portal de Clientes Profertil
+		</a><br> 
+	✉️ <b> ¿Consultas sobre canje de granos? </b><br>
+	escribanos a: <a href="mailto:granos@profertil.com.ar">granos@profertil.com.ar</a> <br>
+	⚠️ <b>Importante:</b><br>
+	Antes de efectuar el pago, revise las exenciones impositivas en el portal. Consulte el legajo impositivo aqui <a href="https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprofertilprd.cpp.cfapps.eu10.hana.ondemand.com%2Fsite%2FPortalClientes%23legajo-display%3Fsap-ui-app-id-hint%3Dd8dc2142-4c3b-448a-9e84-9d45ad04df48&data=05%7C02%7CASTORTONI%40profertil.com.ar%7Cd02d867e128d4189ede108ddae699b2c%7C70782399ad3c4ca6b8a9af2bafbc5704%7C0%7C0%7C638858490774077614%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5eC6zK%2FMMjDWFskqAWEdzvRa9Ul7ngLVboXIq5aNoro%3D&reserved=0">
+																													Legajo Impositivo
+																												  </a><br>
+	<b>No se considereran Validas las retenciones mal aplicadas.</b>
+
+</body></html>
